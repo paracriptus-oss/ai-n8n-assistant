@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Python / env (на будущее)
+__pycache__/
+.venv/
+.env
+
+# n8n локальные артефакты
+*.backup

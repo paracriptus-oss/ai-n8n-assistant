@@ -1,0 +1,10 @@
+- Содержимое (минимальный валидный JSON):
+```json
+{
+  "name": "AI Assistant (base)",
+  "nodes": [],
+  "connections": {},
+  "active": false,
+  "settings": {},
+  "version": 1
+}
